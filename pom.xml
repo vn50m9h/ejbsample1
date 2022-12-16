@@ -187,7 +187,7 @@
 
     <bval.version>2.0.3</bval.version>
     <org.apache.activemq.version>5.15.10</org.apache.activemq.version>
-    <org.springframework.version>3.1.4.RELEASE</org.springframework.version>
+    <org.springframework.version>5.2.20.RELEASE</org.springframework.version>
     <junit.version>4.12</junit.version>
     <org.apache.axis2.version>1.4.1</org.apache.axis2.version>
     <scannotation.version>1.0.2</scannotation.version>
